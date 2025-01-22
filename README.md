@@ -1,4 +1,4 @@
-# Development and Performance Evaluation of Physics-Informed Neural Network in Solving Forward and Inverse Problems of Partial Differential Equations
+# Deep Learning for Soliton Dynamics: A Physics-Informed Neural Network Solution for Korteweg-de Vries Equation Initial Value Problem
 
-- Heat Equation: https://colab.research.google.com/drive/1d0pDTkDa0vLeZKoaVEPWw4_tZ09OnJ5G
-- KdV Equation: https://colab.research.google.com/drive/1PF9yWFxV4P-afqcnA1cpenKWWV17k07O
+Released Paper:
+Helena, M., Yohan, C., & Van Ivanky, S. K. (2024). Deep Learning for Soliton Dynamics: A Physics-Informed Neural Network Solution for Korteweg-de Vries Equation Initial Value Problem. 革新的コンピューティング・情報・制御に関する速報-B: 応用, 15(12), 1303.
